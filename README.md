@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on codeshikhi.com
-- 🌱 I’m currently learning nodejs,mongodb,postgresql
+- ⚡ I'm a full stack developer
+- 🔭 I’m currently working as a Software Engineer at DhumketuX 
+- 🌱 I’m currently learning ReactJS,Solidity,Blockchain Development 
 
 
 <!--
