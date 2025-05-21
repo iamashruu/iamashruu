@@ -1,14 +1,12 @@
 ### Hi there 👋
 - ⚡ I'm a full stack developer
-- 🔭 I’m currently working as a Software Engineer at DhumketuX 
-- 🌱 I’m currently learning ReactJS,Solidity,Blockchain Development 
-
 
 <!--
 **iamashruu/iamashruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning ReactJS,Solidity,Blockchain Development 
+- 🔭 I’m currently working as a Software Engineer at DhumketuX
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
